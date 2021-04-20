@@ -1,0 +1,20 @@
+{
+  "name": "secretify",
+  "version": "1.0.0",
+  "description": "Parser module for secrets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "secrets",
+    "env"
+  ],
+  "author": "Mauricio Mercado",
+  "license": "ISC",
+  "devDependencies": {
+    "pre-commit": "^1.2.2",
+    "standard": "^16.0.3",
+    "tap": "^15.0.4"
+  }
+}
